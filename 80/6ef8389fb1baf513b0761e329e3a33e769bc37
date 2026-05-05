@@ -1,0 +1,43 @@
+proxy/src/test/java/org/apache/rocketmq/proxy/processor/ConsumerProcessorTest.java
+  h_623d13d3466e8c 43,305-324
+proxy/src/main/java/org/apache/rocketmq/proxy/processor/ConsumerProcessor.java
+  h_623d13d3466e8c 434
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "806ef8389fb1baf513b0761e329e3a33e769bc37",
+  "prompts": {
+    "467ae90d432cf272": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d58f9-ba0b-7a42-ac1f-b40609da049f",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o",
+      "messages": [],
+      "total_additions": 87,
+      "total_deletions": 2,
+      "accepted_lines": 112,
+      "overriden_lines": 0
+    },
+    "4c94ebc5d7a59613": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019cdcc9-0bcf-7462-8308-f2dba77b2179",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o",
+      "messages": [],
+      "total_additions": 401,
+      "total_deletions": 0,
+      "accepted_lines": 399,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_623d13d3466e8c": {
+      "author": "yx9o"
+    }
+  }
+}
