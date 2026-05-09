@@ -1,0 +1,25 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "34bfa259790e4ce46fe8c3ab1c840eaa2fc743d5",
+  "prompts": {
+    "467ae90d432cf272": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d58f9-ba0b-7a42-ac1f-b40609da049f",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>",
+      "total_additions": 1674,
+      "total_deletions": 14,
+      "accepted_lines": 1658,
+      "overriden_lines": 2
+    }
+  },
+  "humans": {
+    "h_623d13d3466e8c": {
+      "author": "yx9o"
+    }
+  }
+}
