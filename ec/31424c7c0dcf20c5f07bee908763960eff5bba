@@ -1,0 +1,25 @@
+broker/src/main/java/org/apache/rocketmq/broker/pop/PopConsumerService.java
+  s_8d8224da59ef69::t_80798c7f45a419 606-607,772
+broker/src/main/java/org/apache/rocketmq/broker/processor/PopReviveService.java
+  s_8d8224da59ef69::t_2677ea71d83c20 628
+broker/src/test/java/org/apache/rocketmq/broker/pop/PopConsumerServiceTest.java
+  s_8d8224da59ef69::t_564150290e57da 60,425,441-445,462,467-468,478-481,758
+broker/src/test/java/org/apache/rocketmq/broker/processor/PopReviveServiceTest.java
+  s_8d8224da59ef69::t_fd4e68be959d1c 269,276,290,302
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "ec31424c7c0dcf20c5f07bee908763960eff5bba",
+  "prompts": {},
+  "sessions": {
+    "s_8d8224da59ef69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1a6-a1d4-7490-8c04-0447a2b7db53",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
