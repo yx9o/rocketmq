@@ -1,0 +1,24 @@
+tools/src/main/java/org/apache/rocketmq/tools/command/message/DecodeMessageIdCommand.java
+  s_8d8224da59ef69::t_282c65192f5732 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "8e46d2c660a438635ee3a4b357c634bd38b5c6bd",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  },
+  "sessions": {
+    "s_8d8224da59ef69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1a6-a1d4-7490-8c04-0447a2b7db53",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
