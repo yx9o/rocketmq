@@ -1,0 +1,19 @@
+tools/src/main/java/org/apache/rocketmq/tools/command/cluster/ClusterSendMsgRTCommand.java
+  s_d412c166a7c07a::t_06e4dfacf86ee2 1-211
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b32a47fad997e3762e5ae020a4636bbfee9b8266",
+  "prompts": {},
+  "sessions": {
+    "s_d412c166a7c07a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e49bd-3419-7d00-ad89-6b99c7e25eaa",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
