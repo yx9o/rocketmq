@@ -1,0 +1,19 @@
+tools/src/main/java/org/apache/rocketmq/tools/command/MQAdminStartup.java
+  s_d412c166a7c07a::t_06e4dfacf86ee2 57,255
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "60f711812685343e3f0bb960e5444be7d76a14c5",
+  "prompts": {},
+  "sessions": {
+    "s_d412c166a7c07a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e49bd-3419-7d00-ad89-6b99c7e25eaa",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
