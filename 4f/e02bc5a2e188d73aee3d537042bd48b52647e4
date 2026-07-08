@@ -1,0 +1,28 @@
+tools/src/main/java/org/apache/rocketmq/tools/command/MQAdminStartup.java
+  s_d412c166a7c07a::t_94f8fd2f9d73aa 91,266
+tools/src/main/java/org/apache/rocketmq/tools/command/message/DecodeMessageIdCommand.java
+  s_d412c166a7c07a::t_94f8fd2f9d73aa 31,42
+  s_d412c166a7c07a::t_2fbf28c65648e3 36
+  s_d412c166a7c07a::t_20ccbdbf2dc266 53-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4fe02bc5a2e188d73aee3d537042bd48b52647e4",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  },
+  "sessions": {
+    "s_d412c166a7c07a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e49bd-3419-7d00-ad89-6b99c7e25eaa",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
