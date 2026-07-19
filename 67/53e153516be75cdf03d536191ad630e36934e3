@@ -1,0 +1,43 @@
+tools/src/test/java/org/apache/rocketmq/tools/command/message/DecodeMessageIdCommandTest.java
+  s_8086a0f8d8490d::t_fe1bf19d5d7992 40,42
+  s_8086a0f8d8490d::t_7e55d3d34d2bef 32,55,67,106-110
+  s_8d8224da59ef69::t_4114a968d6a57b 1-16,18-21,23-27,30,33-34,36-39,80-82,90-91,94,100,103,105,111-112
+  s_8086a0f8d8490d::t_56be4d512a07e2 17,29,35,44,60-61,63-65,83-89,92-93,95-99,101-102,104
+  s_8d8224da59ef69::t_fb57897c4b68bc 49-51
+  s_8086a0f8d8490d::t_a09c143b48c01c 52-54,56-58
+  s_8086a0f8d8490d::t_979998815cda3b 75,79
+  s_8086a0f8d8490d::t_606a5f8baa31c2 22,28,31,41,43,45-48,59,62,66,68-74,76-78
+tools/src/main/java/org/apache/rocketmq/tools/command/message/DecodeMessageIdCommand.java
+  s_8086a0f8d8490d::t_c2ee127d1f0f79 19,27,70,75-76,81-84
+  s_8086a0f8d8490d::t_d6a6f398ec38c3 25-26,33-35,43,48,51-54,62,65-69,71-74
+  s_8086a0f8d8490d::t_acbe71c9840ba7 85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "6753e153516be75cdf03d536191ad630e36934e3",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  },
+  "sessions": {
+    "s_8086a0f8d8490d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea9f0-188c-7162-b5db-b43e72ef508b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    },
+    "s_8d8224da59ef69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1a6-a1d4-7490-8c04-0447a2b7db53",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
