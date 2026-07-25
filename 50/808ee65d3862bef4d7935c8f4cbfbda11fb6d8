@@ -1,0 +1,26 @@
+proxy/src/main/java/org/apache/rocketmq/proxy/grpc/v2/client/ClientActivity.java
+  s_22cb3d25e2428a::t_6e2b73a2ba2398 159-164,169
+proxy/src/test/java/org/apache/rocketmq/proxy/grpc/v2/client/ClientActivityTest.java
+  s_22cb3d25e2428a::t_1deb0aa15d9804 227,229,233,235-237,241,251-256
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "50808ee65d3862bef4d7935c8f4cbfbda11fb6d8",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  },
+  "sessions": {
+    "s_22cb3d25e2428a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f98fc-7b6d-73b0-94ca-68dd5f75586e",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
