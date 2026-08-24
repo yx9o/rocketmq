@@ -1,0 +1,25 @@
+proxy/src/main/java/org/apache/rocketmq/proxy/processor/ClientProcessor.java
+  s_22cb3d25e2428a::t_f4796de1798152 118,121,125
+  s_22cb3d25e2428a::t_abf3b079561194 120
+  s_22cb3d25e2428a::t_28e7d2ea0841a2 144-147
+proxy/src/test/java/org/apache/rocketmq/proxy/processor/ClientProcessorTest.java
+  s_22cb3d25e2428a::t_5b0a0c57c0ddb0 45,230
+  s_22cb3d25e2428a::t_f577f2f0226283 22-24,29,43-44,46,64-66,209-229,231
+  s_22cb3d25e2428a::t_2971518bc48ec3 232-233
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "b8d393c475b84b5425e4c9e4a3ee51d4d26d11b3",
+  "prompts": {},
+  "sessions": {
+    "s_22cb3d25e2428a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f98fc-7b6d-73b0-94ca-68dd5f75586e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
