@@ -1,0 +1,32 @@
+common/src/main/java/org/apache/rocketmq/common/attribute/TopicNameAttribute.java
+  s_8086a0f8d8490d::t_58d80a53f572d5 1-34
+broker/src/main/java/org/apache/rocketmq/broker/lite/LiteMetadataUtil.java
+  s_8086a0f8d8490d::t_4a8a1c8f4fcc0b 56,139
+  s_8086a0f8d8490d::t_58d80a53f572d5 25
+common/src/main/java/org/apache/rocketmq/common/SubscriptionGroupAttributes.java
+  s_8086a0f8d8490d::t_58d80a53f572d5 26,29,42,101
+broker/src/test/java/org/apache/rocketmq/broker/processor/AdminBrokerProcessorTest.java
+  s_8086a0f8d8490d::t_58d80a53f572d5 89,150,664-698,1117-1151
+  s_8086a0f8d8490d::t_3041b48679b651 1152
+broker/src/test/java/org/apache/rocketmq/broker/lite/LiteMetadataUtilTest.java
+  s_8086a0f8d8490d::t_4a8a1c8f4fcc0b 59-62,71-72,79,92-96,108
+  s_8086a0f8d8490d::t_58d80a53f572d5 1-58,63-70,73-78,80-91,97-107,109-112
+common/src/test/java/org/apache/rocketmq/common/SubscriptionGroupAttributesTest.java
+  s_8086a0f8d8490d::t_58d80a53f572d5 1-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "73d4db300bfaa2db9c3bc7ec18ecb25561d3492f",
+  "prompts": {},
+  "sessions": {
+    "s_8086a0f8d8490d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea9f0-188c-7162-b5db-b43e72ef508b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
