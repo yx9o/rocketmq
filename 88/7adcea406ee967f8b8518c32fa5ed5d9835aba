@@ -1,0 +1,24 @@
+common/src/main/java/org/apache/rocketmq/common/attribute/StringAttribute.java
+  s_8086a0f8d8490d::t_9702020bc88ac3 37
+  s_8086a0f8d8490d::t_f8fbd5b8e44c66 21,24,28-30
+  s_8086a0f8d8490d::t_131528f46b6472 20,27
+  s_8086a0f8d8490d::t_7eae0fded27a18 32
+common/src/main/java/org/apache/rocketmq/common/SubscriptionGroupAttributes.java
+  s_8086a0f8d8490d::t_f8fbd5b8e44c66 29,42,44-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "887adcea406ee967f8b8518c32fa5ed5d9835aba",
+  "prompts": {},
+  "sessions": {
+    "s_8086a0f8d8490d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea9f0-188c-7162-b5db-b43e72ef508b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
